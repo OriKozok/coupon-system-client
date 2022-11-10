@@ -1,0 +1,10 @@
+.Layout {
+	height: 100%;
+    display: grid;
+    grid-template-rows: 7.5% 5% 87.5%;
+}
+
+
+.Layout, .Layout>*{
+    border: solid black 0.1px;
+}

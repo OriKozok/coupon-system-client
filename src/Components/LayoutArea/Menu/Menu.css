@@ -1,0 +1,12 @@
+.Menu{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	background-color: #AA8B56;
+	
+}
+
+.Menu > * {
+	
+}
+
